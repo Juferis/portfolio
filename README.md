@@ -19,7 +19,7 @@
 > CRUD 기능을 갖춘 멀티미디어 홈페이지 (개인 프로젝트)
 >  
 >기술 스택:  
->JS / Pug / NodeJS / SCSS / ES6
+>JS / Pug / NodeJS / SCSS / ES6  
 >Express / Babel / Passport / Webpack / MongoDB / Mongoose / Multer
 >  
 >[프로젝트 상세 설명](https://github.com/Juferis/wetube) 참고
