@@ -26,7 +26,7 @@
 
 ---
 
-### 2. [To Do List](https://juferis.github.io/todo-list-homepage/)
+### 2. [To Do List](https://juferis.github.io/todo-list-homepage)
 >Vanilla JS를 이용한 크롬기반 To Do List (개인 프로젝트)  
 >  
 >기술 스택:  
