@@ -19,8 +19,8 @@
 > CRUD 기능을 갖춘 멀티미디어 홈페이지 (개인 프로젝트)
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>JS / Pug / NodeJS / SCSS / ES6
+>Express / Babel / Passport / Webpack / MongoDB / Mongoose / Multer
 >  
 >[프로젝트 상세 설명](https://github.com/Juferis/wetube) 참고
 
@@ -30,7 +30,7 @@
 >Vanilla JS를 이용한 크롬기반 To Do List (개인 프로젝트)  
 >  
 >기술 스택:  
->HTML / CSS / JS
+>HTML5 / CSS3 / JS / OpenWeather API
 >  
 >[프로젝트 상세 설명](https://github.com/Juferis/todo-list-homepage) 참고
 
@@ -40,6 +40,6 @@
 >HTML과 CSS를 이용한 카카오톡의 Frontend 부분 클론 코딩  (개인 프로젝트)  
 >  
 >기술 스택:  
->HTML / CSS 
+>HTML5 / CSS3
 >  
 >[프로젝트 상세 설명](https://github.com/Juferis/kakaotalk-clone) 참고
