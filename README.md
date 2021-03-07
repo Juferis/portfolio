@@ -30,8 +30,7 @@
 >Vanilla JS를 이용한 크롬기반 To Do List (개인 프로젝트)  
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>HTML / CS / JS
 >  
 >[프로젝트 상세 설명](https://github.com/Juferis/todo-list-homepage) 참고
 
