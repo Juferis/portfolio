@@ -39,3 +39,6 @@ Full Stack 개발자이자 SQL 전문가를 목표로 하는 프로그래머 입
 >HTML5 / CSS3
 >  
 >[프로젝트 상세 설명](https://github.com/Juferis/kakaotalk-clone) 참고
+
+## 현재 학습방향
+> Typescript와 Git 사용법을 배우고 익히는 중 입니다.
