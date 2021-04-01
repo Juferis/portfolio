@@ -41,7 +41,7 @@ Full Stack 개발자이자 SQL 전문가를 목표로 하는 프로그래머 입
 >[프로젝트 상세 설명](https://github.com/Juferis/kakaotalk-clone) 참고
 
 ## 현재 학습방향
->1. Typescript와 ReactJs을 배우고 익히는 중 입니다.  
+>1. Typescript을 배우고 익히는 중 입니다.  
 >[현재 학습 진행 상황](https://github.com/Juferis/For-practice/tree/master/TypeChain(Typescript)) 참고  
 >  
 >2. 프로그래머스에서 SQL코드 테스트를 진행하고 있습니다.  
