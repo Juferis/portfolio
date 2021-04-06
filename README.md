@@ -38,7 +38,9 @@ Full Stack 개발자이자 SQL 전문가를 목표로 하는 프로그래머 입
 >기술 스택:  
 >HTML5 / CSS3
 >  
->[프로젝트 상세 설명](https://github.com/Juferis/kakaotalk-clone) 참고
+>[프로젝트 상세 설명](https://github.com/Juferis/kakaotalk-clone) 참고  
+
+---
 
 ### 4. [Flask를 이용한 잡스크래퍼](https://replit.com/@Juferis/job-scrapper#main.py)  
 >Python과 Flask를 이용해 잡코리아와 사람인에서 원하는 직업정보를 검색해 스크랩해오는 프로젝트 (개인 프로젝트)  
