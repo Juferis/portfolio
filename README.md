@@ -42,14 +42,6 @@ Full Stack 개발자이자 SQL 전문가를 목표로 하는 프로그래머 입
 
 ---
 
-### 4. [Flask를 이용한 잡스크래퍼](https://replit.com/@Juferis/job-scrapper#main.py)  
->Python과 Flask를 이용해 잡코리아와 사람인에서 원하는 직업정보를 검색해 스크랩해오는 프로젝트 (개인 프로젝트)  
->  
->기술 스택:  
->Python 3.8.2 / Flask / bs4  
->[결과물](https://replit.com/@Juferis/job-scrapper#main.py)  
->[Github](https://github.com/Juferis/For-practice/tree/master/Saramin_Job_Scrapper(python%2C%20flask))  
-
 ## 현재 학습방향
 >1. Typescript을 배우고 익히는 중 입니다.  
 >[현재 학습 진행 상황](https://github.com/Juferis/For-practice/tree/master/TypeChain(Typescript)) 참고  
