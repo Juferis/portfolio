@@ -42,10 +42,3 @@
 
 ---
 
-## 현재 학습방향
->1. Typescript을 배우고 익히는 중 입니다.  
->[현재 학습 진행 상황](https://github.com/Juferis/For-practice/tree/master/TypeChain(Typescript)) 참고  
->  
->2. 프로그래머스에서 SQL코드 테스트를 진행하고 있습니다.  
->[현재 학습 진행 상황](https://github.com/Juferis/For-practice/tree/master/SQL) 참고
->
