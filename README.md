@@ -46,6 +46,8 @@
 > ReactJS로 Movie App 만들기 [Git_Link](https://github.com/Juferis/for-practice/tree/master/movie_app)  
 >  
 > My Weather(날씨를 알려주는 어플) [Git_link](https://github.com/Juferis/for-practice/tree/master/my-weather)  
+>
+> GraphQL로 영화 웹 앱 만들기(with Apollo) [Git_Link](https://github.com/Juferis/apollo-movie)  
 
 ## 📌 현재 진행중
 > Catch Mind(Node로 만든 실시간 캐치마인드 게임) [Git_Link](https://github.com/Juferis/catch-mind)  
