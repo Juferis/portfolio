@@ -11,7 +11,7 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [WeTube](https://intense-hollows-79633.herokuapp.com)
+### 1. [WeTube](https://intense-hollows-79633.herokuapp.com)(2021.01 ~ 2021.02)  
 > CRUD 기능을 갖춘 멀티미디어 홈페이지 (개인 프로젝트)
 >  
 >기술 스택:  
@@ -22,7 +22,7 @@
 
 ---
 
-### 2. [To Do List](https://juferis.github.io/todo-list-homepage)
+### 2. [To Do List](https://juferis.github.io/todo-list-homepage)(2020.11 ~ 2021.01)  
 >Vanilla JS를 이용한 크롬기반 To Do List (개인 프로젝트)  
 >  
 >기술 스택:  
@@ -32,7 +32,7 @@
 
 ---
 
-### 3. [카카오톡 클론 코딩](https://juferis.github.io/kakaotalk-clone) (구글 크롬으로 창을 핸드폰 크기정도로 줄여서 확인 해주세요.)
+### 3. [카카오톡 클론 코딩](https://juferis.github.io/kakaotalk-clone) (구글 크롬으로 창을 핸드폰 크기정도로 줄여서 확인 해주세요.)(2020.11 ~ 2020.11)  
 >HTML과 CSS를 이용한 카카오톡의 Frontend 부분 클론 코딩  (개인 프로젝트)  
 >  
 >기술 스택:  
@@ -43,11 +43,11 @@
 ---
 
 ## 📌 현재 학습 결과물  
-> ReactJS로 Movie App 만들기 [Git_Link](https://github.com/Juferis/for-practice/tree/master/movie_app)  
+> ReactJS로 Movie App 만들기 [Git_Link](https://github.com/Juferis/for-practice/tree/master/movie_app)(2021.04 ~ 2021.05)  
 >  
-> My Weather(날씨를 알려주는 어플) [Git_link](https://github.com/Juferis/for-practice/tree/master/my-weather)  
+> My Weather(날씨를 알려주는 어플) [Git_link](https://github.com/Juferis/for-practice/tree/master/my-weather)(2021.05 ~ 2021.05)  
 >
-> GraphQL로 영화 웹 앱 만들기(with Apollo) [Git_Link](https://github.com/Juferis/apollo-movie)  
+> GraphQL로 영화 웹 앱 만들기(with Apollo) [Git_Link](https://github.com/Juferis/apollo-movie)(2021.05 ~ 2021.05)    
 
 ## 📌 현재 진행중
-> Catch Mind(Node로 만든 실시간 캐치마인드 게임) [Git_Link](https://github.com/Juferis/catch-mind)  
+> Catch Mind(Node로 만든 실시간 캐치마인드 게임) [Git_Link](https://github.com/Juferis/catch-mind)(2021.05 ~ )    
