@@ -32,17 +32,9 @@
 
 ---
 
-### 3. [카카오톡 클론 코딩](https://juferis.github.io/kakaotalk-clone) (구글 크롬으로 창을 핸드폰 크기정도로 줄여서 확인 해주세요.)(2020.11 ~ 2020.11)  
->HTML과 CSS를 이용한 카카오톡의 Frontend 부분 클론 코딩  (개인 프로젝트)  
->  
->기술 스택:  
->HTML5 / CSS3
->  
->[프로젝트 상세 설명](https://github.com/Juferis/kakaotalk-clone) 참고  
-
----
-
 ## 📌 현재 학습 결과물  
+> HTML5와 CSS3를 이용한 카카오톡 클론 코딩 [Git_Link](https://github.com/Juferis/kakaotalk-clone)(2020.11 ~ 2020.11)  
+>
 > ReactJS로 Movie App 만들기 [Git_Link](https://github.com/Juferis/for-practice/tree/master/movie_app)(2021.04 ~ 2021.05)  
 >  
 > My Weather(날씨를 알려주는 어플) [Git_link](https://github.com/Juferis/for-practice/tree/master/my-weather)(2021.05 ~ 2021.05)  
