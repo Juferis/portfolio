@@ -40,6 +40,8 @@
 > My Weather(날씨를 알려주는 어플) [Git_link](https://github.com/Juferis/for-practice/tree/master/my-weather)(2021.05 ~ 2021.05)  
 >
 > GraphQL로 영화 웹 앱 만들기(with Apollo) [Git_Link](https://github.com/Juferis/apollo-movie)(2021.05 ~ 2021.05)    
+> 
+> Catch Mind(Node로 만든 실시간 캐치마인드 게임) [Git_Link](https://github.com/Juferis/catch-mind)(2021.05 ~ 2021.06)    
 
 ## 📌 현재 진행중
-> Catch Mind(Node로 만든 실시간 캐치마인드 게임) [Git_Link](https://github.com/Juferis/catch-mind)(2021.05 ~ )    
+  
